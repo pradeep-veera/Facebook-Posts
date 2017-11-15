@@ -11,6 +11,11 @@
 <li>Currently this application only retreive the textual posts which are created by admin of the user.</li>
 <li>The facebook page can be changed in the file fbposts.php </li>
 </ul>
+<h2>Installation:</h2>
+<ul>
+<li>git clone to html directory of local server (apache or Wamp).</li>
+<li>Open fbposts.php in local browser.</li> 
+</ul>
 
 <h2>Output Format:</h2>
 <ul>
